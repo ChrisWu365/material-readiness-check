@@ -7,7 +7,7 @@
 | 3 | [Specification](02-slice-spec.md) | Requirements, acceptance criteria, assumptions and exclusions |
 | 4 | [Technical design](03-technical-design.md), [decision records](adr/README.md) | Architecture, data model and trade-offs |
 | 5 | [Test strategy](04-test-strategy.md), [how to run the tests](../README.md#run-the-tests) | How each criterion and risk is tested |
-| 6 | [Workflow](../.github/workflows/ci-cd.yml), [CI/CD runs](https://github.com/ChrisWu365/chris-exercise/actions) | Checks, tests and a successful deployment |
+| 6 | [Workflow](../.github/workflows/ci-cd.yml), [CI/CD runs](https://github.com/ChrisWu365/material-readiness-check/actions) | Checks, tests and a successful deployment |
 | 7 | [Agentic coding approach](05-agentic-coding-approach.md), [agent instructions](../AGENTS.md), [agent log](agent-log.md) | How the agents were guided and corrected |
 | 8 | [Known limitations](../README.md#known-limitations) | What would need to change for production |
 

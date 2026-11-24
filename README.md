@@ -7,8 +7,8 @@ Packages, material mappings and stock are all SAMPLE data.
 | | |
 | --- | --- |
 | **Live app** | <https://chris-exercise.vercel.app/> (no sign-in) |
-| **Code** | <https://github.com/ChrisWu365/chris-exercise> |
-| **CI/CD runs** | [All runs](https://github.com/ChrisWu365/chris-exercise/actions), and [a successful deployment](https://github.com/ChrisWu365/chris-exercise/actions/runs/42102553835) |
+| **Code** | <https://github.com/ChrisWu365/material-readiness-check> |
+| **CI/CD runs** | [All runs](https://github.com/ChrisWu365/material-readiness-check/actions), and [a successful deployment](https://github.com/ChrisWu365/material-readiness-check/actions/runs/42102553835) |
 
 ## Table of contents
 
