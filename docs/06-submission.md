@@ -6,7 +6,7 @@ Where to find each item the brief asks for.
 
 | Requirement | Location |
 | --- | --- |
-| GitHub repository | <https://github.com/ChrisWu365/chris-exercise> |
+| GitHub repository | <https://github.com/ChrisWu365/material-readiness-check> |
 | Public URL | <https://chris-exercise.vercel.app/> |
 | Instructions to try it | [Demonstration](../README.md#demonstration) |
 
@@ -51,8 +51,8 @@ Where to find each item the brief asks for.
 | Browser tests | [e2e/](../e2e) |
 | Important behaviour, failures and risks | [Criteria mapping](04-test-strategy.md#4-acceptance-criteria-mapping), [risks](04-test-strategy.md#2-main-risks), [failures](04-test-strategy.md#7-how-failures-are-simulated) |
 | CI/CD configuration | [ci-cd.yml](../.github/workflows/ci-cd.yml) |
-| Pipeline runs | [All runs](https://github.com/ChrisWu365/chris-exercise/actions) |
-| Evidence of a successful deployment | [A successful run](https://github.com/ChrisWu365/chris-exercise/actions/runs/42102553835) |
+| Pipeline runs | [All runs](https://github.com/ChrisWu365/material-readiness-check/actions) |
+| Evidence of a successful deployment | [A successful run](https://github.com/ChrisWu365/material-readiness-check/actions/runs/42102553835) |
 
 ## Agentic coding approach
 
